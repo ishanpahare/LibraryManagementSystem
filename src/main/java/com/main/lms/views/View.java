@@ -54,7 +54,6 @@ public class View {
 
         if (id == 0) {
             System.exit(0);
-            ;
         }
         int cid = VerifyUtil.isCustomer(id, connect);
         if (cid != 0) {

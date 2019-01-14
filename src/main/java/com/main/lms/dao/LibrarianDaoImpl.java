@@ -25,7 +25,7 @@ public class LibrarianDaoImpl implements LibrarianDao<Librarian> {
     public void save(Librarian librarian, DBConnect connection) {
         String sql="INSERT into librarian(lid,username,password) VALUES(?,?,?)";
         try(Connection conn = connection.getConnection();
-            PreparedStatement pstmt=conn.prepareStatement(sql);) {
+            PreparedStatement pstmt=conn.prepareStatement(sql)) {
             pstmt.setInt(1,librarian.getLid());
             pstmt.setString(2,librarian.getUsername());
             pstmt.setString(3,librarian.getPassword());

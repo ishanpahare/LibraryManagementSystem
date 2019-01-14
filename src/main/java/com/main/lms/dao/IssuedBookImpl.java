@@ -25,7 +25,7 @@ public class IssuedBookImpl implements IssueBookDao<IssuedBook>{
     public void save(IssuedBook issuedBook, DBConnect connection) {
         String sql="INSERT INTO issued(uid,cid,lid,issuedate,returndate) VALUES (?,?,?,?,?)";
         try(Connection conn = connection.getConnection();
-            PreparedStatement pstmt=conn.prepareStatement(sql);) {
+            PreparedStatement pstmt=conn.prepareStatement(sql)) {
             pstmt.setInt(1,issuedBook.getUid());
             pstmt.setInt(2,issuedBook.getCid());
             pstmt.setInt(3,issuedBook.getLid());
