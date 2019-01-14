@@ -1,0 +1,148 @@
+[{
+  "book": {
+    "name": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "isbn": 1,
+    "publisher":"Penguin",
+    "genre_s": "fantasy",
+    "inStock": true,
+    "price": 120,
+    "pages_i": 384,
+    "quantity": 10
+  }
+}, {
+  "book": {
+    "name": "The Sea of Monsters",
+    "author": "Rick Riordan",
+    "publisher": "Penguin",
+    "isbn": 2,
+    "genre_s": "fantasy",
+    "inStock": true,
+    "price": 60,
+    "pages_i": 304,
+    "quantity": 10
+  }
+}, {
+  "book": {
+    "name": "Sophie's World : The Greek Philosophers",
+    "author": "Jostein Gaarder",
+    "publisher": "Arkham House",
+    "isbn": 3,
+    "genre_s": "fantasy",
+    "inStock": true,
+    "price": 30,
+    "pages_i": 64,
+    "quantity": 10
+  }
+}, {
+  "book": {
+    "name": "Lucene in Action, Second Edition",
+    "author": "Michael McCandless",
+    "publisher": "Graywolf Press",
+    "isbn": 4,
+    "genre_s": "IT",
+    "inStock": true,
+    "price": 300,
+    "pages_i": 475,
+    "quantity": 10
+  }
+},
+  {
+    "book": {
+      "name": "The Lightning Thief",
+      "author": "Rick Riordan",
+      "isbn": 1,
+      "publisher":"Penguin",
+      "genre_s": "fantasy",
+      "inStock": true,
+      "price": 120,
+      "pages_i": 384,
+      "quantity": 10
+    }
+  }, {
+  "book": {
+    "name": "The Sea of Monsters",
+    "author": "Rick Riordan",
+    "publisher": "Penguin",
+    "isbn": 2,
+    "genre_s": "fantasy",
+    "inStock": true,
+    "price": 60,
+    "pages_i": 304,
+    "quantity": 10
+  }
+}, {
+  "book": {
+    "name": "Sophie's World : The Greek Philosophers",
+    "author": "Jostein Gaarder",
+    "publisher": "Arkham House",
+    "isbn": 3,
+    "genre_s": "fantasy",
+    "inStock": true,
+    "price": 30,
+    "pages_i": 64,
+    "quantity": 10
+  }
+}, {
+  "book": {
+    "name": "Lucene in Action, Second Edition",
+    "author": "Michael McCandless",
+    "publisher": "Graywolf Press",
+    "isbn": 4,
+    "genre_s": "IT",
+    "inStock": true,
+    "price": 300,
+    "pages_i": 475,
+    "quantity": 10
+  }
+},
+  {
+    "book": {
+      "name": "The Lightning Thief",
+      "author": "Rick Riordan",
+      "isbn": 1,
+      "publisher":"Penguin",
+      "genre_s": "fantasy",
+      "inStock": true,
+      "price": 120,
+      "pages_i": 384,
+      "quantity": 10
+    }
+  }, {
+  "book": {
+    "name": "The Sea of Monsters",
+    "author": "Rick Riordan",
+    "publisher": "Penguin",
+    "isbn": 2,
+    "genre_s": "fantasy",
+    "inStock": true,
+    "price": 60,
+    "pages_i": 304,
+    "quantity": 10
+  }
+}, {
+  "book": {
+    "name": "Sophie's World : The Greek Philosophers",
+    "author": "Jostein Gaarder",
+    "publisher": "Arkham House",
+    "isbn": 3,
+    "genre_s": "fantasy",
+    "inStock": true,
+    "price": 30,
+    "pages_i": 64,
+    "quantity": 10
+  }
+}, {
+  "book": {
+    "name": "Lucene in Action, Second Edition",
+    "author": "Michael McCandless",
+    "publisher": "Graywolf Press",
+    "isbn": 4,
+    "genre_s": "IT",
+    "inStock": true,
+    "price": 300,
+    "pages_i": 475,
+    "quantity": 10
+  }
+}
+]
