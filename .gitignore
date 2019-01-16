@@ -28,3 +28,5 @@ hs_err_pid*
 *.iml
 target/generated-sources/
 target/generated-test-sources/
+/.idea/vcs.xml
+/.idea/workspace.xml
